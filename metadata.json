@@ -1,0 +1,8 @@
+{
+  "name": "CBT Pendidikan Pancasila Kelas XI",
+  "description": "Aplikasi Computer Based Test (CBT) Pendidikan Pancasila SMA/SMK Kelas XI materi Pancasila, UUD 1945, Periodisasi Konstitusi, dan Budaya Demokrasi dengan integrasi Spreadsheet dan analitik real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
